@@ -2,7 +2,7 @@
 
 # 🚀 Minha Jornada com Python
 
-Olá! 👋 Meu nome é [Pedro Alejandro] e este repositório é parte da minha jornada de aprendizado em Python. Estou explorando o mundo da programação e quero compartilhar meus projetos, descobertas e desafios com você!
+Olá! 👋 Meu nome é Pedro Alejandro e este repositório é parte da minha jornada de aprendizado em Python. Estou explorando o mundo da programação e quero compartilhar meus projetos, descobertas e desafios com você!
 <p align="center">
   <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExd2F4em4zZnB6b2pjN2g2YXJwOGpzaHBvcGdmMDFmcGN2c2lhd2w2NiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/n1dFDLwXu4Qkwy7OJ0/giphy.gif" alt="Data Coding GIF">
 </p>
