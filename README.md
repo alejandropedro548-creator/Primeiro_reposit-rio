@@ -36,7 +36,7 @@ Este repositório reúne todos os exercícios, desafios e projetos que desenvolv
 
 ## 🛠️ Tecnologias que estou aprendendo
 
-  Python 3,
+  Python ,
   GitHub,
   Vscode.
 ## 🎯 Objetivos
